@@ -14,11 +14,19 @@ const Hero = () => (
                 viewport={{ once: false, amount: 0.25 }}
                 className={`${styles.innerWidth} mx-auto flex flex-col`}
             >
-        <div className="flex justify-center items-center flex-col relative z-10">
-            <motion.h1 variants={textVariant(1.1)}>
-                CodeXam
-            </motion.h1>
-        </div>
+                <div className="flex justify-center items-center flex-col relative z-10">
+                    <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
+                        CodeXam
+                    </motion.h1>
+                    <motion.div
+                        variants={textVariant(1.2)}
+                        className="flex flex-row justify-center items-center"
+                    >
+                        <h1 className={styles.heroHeading}>Learn</h1>
+                        <div className={styles.heroDText} />
+                        <h1 className={styles.heroHeading}>aily</h1>
+                    </motion.div>
+                </div>
             </motion.div>
   </section>
 );
