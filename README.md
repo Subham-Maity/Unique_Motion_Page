@@ -12,3 +12,4 @@ https://beta.nextjs.org/docs/getting-started
   - viewport={{ once: true }} - Here once we reach the component, it will not animate again. 
   - If I set false then it will animate again and again when we scroll up and down the page 
   - also when I set the amount like ``amount:0.25`` then it will animate when the component is 25% in the viewport.
+  Example : https://codesandbox.io/embed/framer-motion-5-3-scroll-triggered-animations-2hbg5?fontsize=14&hidenavigation=1&theme=dark
