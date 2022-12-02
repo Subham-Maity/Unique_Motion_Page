@@ -1,4 +1,4 @@
- ####  We Use Next.js BETA version [Date:2022-11-27]
+ ####  We Use Next.js 13 [BETA version](https://nextjs.org/blog/next-13) [Date:2022-11-27]
 https://beta.nextjs.org/docs/getting-started
 
 ##### Experimental Features [!Important Dev Notes:]
