@@ -1,4 +1,6 @@
- ####  We Use Next.js BETA version [Date:2022-11-27]
+### The motion page was originally created by CodeXam member Subham. Our beta version is now available for anyone to join and help with the development of the CodeXam Unique Motion Front Page
+
+####  We Use Next.js 13 [BETA version](https://nextjs.org/blog/next-13) [Date:2022-11-27]
 https://beta.nextjs.org/docs/getting-started
 
 ##### Experimental Features [!Important Dev Notes:]
