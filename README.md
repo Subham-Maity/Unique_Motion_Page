@@ -15,5 +15,7 @@ https://beta.nextjs.org/docs/getting-started
   - If I set false then it will animate again and again when we scroll up and down the page 
   - also when I set the amount like ``amount:0.25`` then it will animate when the component is 25% in the viewport.
   Example : https://codesandbox.io/embed/framer-motion-5-3-scroll-triggered-animations-2hbg5?fontsize=14&hidenavigation=1&theme=dark
-3. Globe with girl figma canvas: https://www.figma.com/file/B18x5Gzry3VTWjBlZd4tGr/Girlwithglobe?node-id=0%3A1&t=KpDo4x1zWvTUM7zM-1
+3. SVG Edit :
+   1. Globe with girl figma canvas: https://www.figma.com/file/B18x5Gzry3VTWjBlZd4tGr/Girlwithglobe?node-id=0%3A1&t=KpDo4x1zWvTUM7zM-1
+   2. Bubble with astro: https://www.figma.com/file/tYlKaYHhIxwikyXbj6g2L8/Bubble-with-astro?node-id=2%3A2&t=BRcl1ECMyUZuRczg-1
 

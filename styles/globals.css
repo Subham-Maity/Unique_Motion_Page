@@ -738,12 +738,12 @@ svg {
 
 }
 
-#earth{
-  animation:earth 3s infinite linear;
+#Earth{
+  animation:Earth 5s infinite linear;
   transform-origin: center;
   transform-box: fill-box;
 }
-@keyframes earth {
+@keyframes Earth {
   0% {
     transform: rotate(0deg);
   }
