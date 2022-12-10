@@ -752,6 +752,23 @@ svg {
   }
 }
 
+#Body {
+  -webkit-animation: Body 2s infinite  alternate;
+  animation: Body 2s infinite  alternate;
+}
+Body.vert-move {
+  -webkit-animation: mover 1s infinite  alternate;
+  animation: mover 2s infinite  alternate;
+}
+@-webkit-keyframes Body {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-400px); }
+}
+@keyframes Body {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-400px); }
+}
+
 
 
 
